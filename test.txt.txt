@@ -1,0 +1,6 @@
+test ют╢о╢ы
+
+public class javatest(){
+	public static void{
+	...}
+}
