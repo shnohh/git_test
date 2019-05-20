@@ -4,3 +4,4 @@ public class javatest(){
 	public static void{
 	...}
 }
+123
